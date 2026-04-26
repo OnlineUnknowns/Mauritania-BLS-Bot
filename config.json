@@ -1,0 +1,25 @@
+{
+    "browser": "chrome",
+    "captcha_solver_url": "http://localhost:8888/Unknown",
+    "form_data": {
+        "lastname": "Doe",
+        "firstname": "John",
+        "email": "john.doe@example.com",
+        "locationCode": "Unknown",
+        "passport": "A12345678"
+    },
+    "urls": [
+        {
+            "category":"General",
+            "url": "https://service2.diplo.de/Unknown/extern/appointment_showDay.do?locationCode=doha&realmId=495&categoryId=790&dateStr=30.12.2024"
+        },
+        {
+            "category": "Master",
+            "url": "https://service2.diplo.de/Unknown/extern/appointment_showMonth.do?locationCode=Unknown&realmId=967&categoryId=2801&dateStr=17.01.2025"
+        },
+        {
+            "category": "Visit",
+            "url": "https://service2.diplo.de/Unknown/extern/appointment_showDay.do?locationCode=Unknown&realmId=967&categoryId=2801&dateStr=18.12.2024"
+        }
+    ]
+}
