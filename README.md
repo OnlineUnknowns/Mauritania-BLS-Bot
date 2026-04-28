@@ -207,4 +207,7 @@ D --> F[Success Log]
 
 ## ⭐ Support
 
-If you like this project, consider giving it a **star ⭐** on GitHub.
+[![Buy Me A Coffee](https://img.shields.io/badge/Support-Buy%20Me%20A%20Coffee-yellow.svg)](https://buymeacoffee.com/onlineunknowns)
+
+------------------------------------------------------------------------
+
